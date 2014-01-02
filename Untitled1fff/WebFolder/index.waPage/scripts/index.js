@@ -10,6 +10,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	button2.click = function button2_click (event)// @startlock
 	{// @endlock
 		//somme cooode
+		//newer code
 	};// @lock
 
 // @region eventManager// @startlock
